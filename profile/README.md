@@ -1,4 +1,6 @@
-# Welcome to the Intel Retail GitHub Organization, part of the Open Edge Platform Suites.
+# Welcome to the Intel Retail GitHub Organization!
+
+## The Retail AI Suite is part of Open Edge Platform.
 
 [Intel’s Open Edge Platform](https://github.com/open-edge-platform) is a secure and optimized open platform for delivering scalable edge solutions.
 Retail constitutes one of its AI Software Suites, offering several sample applications that showcase the use of platform's software stack.
